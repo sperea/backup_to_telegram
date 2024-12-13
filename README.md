@@ -25,7 +25,7 @@ Limitations
 -----------
 
 *   Telegram's API limit for uploading files via bots is **50MB** for direct uploads.
-*   Files larger than 50MB are uploaded as documents using the split functionality (default split size is 2GB).
+*   Files larger than 50MB are uploaded as documents using the split functionality (default split size is 50Mb).
 *   Ensure your internet connection is stable for uploading large files.
 
 Usage
