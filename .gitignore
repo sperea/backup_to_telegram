@@ -43,3 +43,6 @@ venv/
 *.egg-info/
 dist/
 build/
+
+# Allow backup_to_telegram.py
+!backup_to_telegram.py
